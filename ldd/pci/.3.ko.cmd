@@ -1,0 +1,1 @@
+cmd_/home/karan/Desktop/DesktopNew/pci/3.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-23-generic-pae/scripts/module-common.lds --build-id  -o /home/karan/Desktop/DesktopNew/pci/3.ko /home/karan/Desktop/DesktopNew/pci/3.o /home/karan/Desktop/DesktopNew/pci/3.mod.o

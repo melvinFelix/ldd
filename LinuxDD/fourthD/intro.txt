@@ -1,0 +1,3 @@
+Major no is 12 bit and Minor No is 20 bit which totals 32 bit
+
+MKDEV(Major No,Minor No)

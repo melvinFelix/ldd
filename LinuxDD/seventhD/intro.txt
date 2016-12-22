@@ -1,0 +1,9 @@
+Block Device Drivers
+
+to register block device:
+
+register_blkdev(<Major_no>,"<Driver_name>");
+
+to unregister block devices
+
+unregister_blkdev(<Major_no>,"<Driver_name>");

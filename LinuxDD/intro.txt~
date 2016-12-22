@@ -1,0 +1,46 @@
+Linux Device Drivers:
+  
+
+  Device and Driver
+  
+languages:
+ 1.high level languages:
+	java android c c++
+  2.mid level language :
+	c,embedded c
+  3.low level
+	Assembly
+
+uname -r tells kernel version
+
+3.19.0.15-generic
+
+3 tells the kernel version
+19 tells the number of updates in this version
+0 if it is even it is stable if it is odd it is not stable
+
+kernel is the core of the operating system
+
+Linux kernel is written in assembly and c
+
+assembly is hardware dependent
+c is mostly hardware independent
+
+there are two spaces namely 
+1.kernel space
+2.user space
+
+kernel space mostly consists of hardware applications 
+and user space mostly software
+
+Linux is capable of several processes
+
+kernel handles important things in OS like memory management,power management and process management
+
+##  every process has a process id
+
+## Linux supports round robin
+
+
+
+

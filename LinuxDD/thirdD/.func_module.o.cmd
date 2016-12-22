@@ -1,0 +1,1 @@
+cmd_/home/itronix/Desktop/LinuxDD/thirdD/func_module.o := ld -m elf_i386   -r -o /home/itronix/Desktop/LinuxDD/thirdD/func_module.o /home/itronix/Desktop/LinuxDD/thirdD/module_param.o /home/itronix/Desktop/LinuxDD/thirdD/add.o 

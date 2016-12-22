@@ -1,0 +1,1 @@
+cmd_/home/itronix/Desktop/LinuxDD/secondD/mod.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/itronix/Desktop/LinuxDD/secondD/mod.ko /home/itronix/Desktop/LinuxDD/secondD/mod.o /home/itronix/Desktop/LinuxDD/secondD/mod.mod.o
