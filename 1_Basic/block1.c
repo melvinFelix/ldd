@@ -21,7 +21,7 @@ if ((myblkdev_major = register_blkdev(myblkdev_major,"myblkdev")) <= 0)
 	}
 else
 	{
-		printk(KERN_ALERT "Device registraion Successfully..\n");
+		printk(KERN_ALERT "Device registered Successfully..\n");
 	}
 return 0;
 }
